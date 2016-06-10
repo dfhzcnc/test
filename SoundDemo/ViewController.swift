@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     @IBAction func Record(sender: AnyObject) {
         print("button pressed")
         RecordingLabel.text = "Recording..."
-        print("dummy")
+        
     }
 
 }
